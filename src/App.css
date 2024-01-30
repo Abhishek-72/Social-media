@@ -1,0 +1,21 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+
+.sidebar{
+  min-height: 800px;
+}
+.fs-4{
+  color: white;
+}
+
+.Post-container{
+  width: 100%;
+  display: flex;
+  padding-top: 50px;
+  padding-left: 50px;
+  margin: auto;
+}
